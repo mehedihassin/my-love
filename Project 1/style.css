@@ -1,0 +1,83 @@
+*
+
+h1{
+    color: brown;
+    background-color: black;
+
+}
+#first{
+color: blue;
+background-color: blueviolet;
+}
+.vlogs{
+    background-color: coral;
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 20px 10px 50px 60px;
+}
+span{
+    color: red;
+}
+.tour{
+background-color: cornflowerblue;
+border: 2px solid red;
+border-radius: 10px;
+margin: 20px 10px 50px 60px;
+}
+.sakib{
+    color: yellow;
+}
+.travelling{
+    background-color: rgb(33, 33, 155);
+    border: 2px solid red;
+    border-radius: 10px;
+    margin: 20px 10px 50px 60px;
+}
+.habib{
+   color: rgb(7, 124, 241);
+}
+.mehedi{
+    color: brown;
+    border: 2px;
+    border-radius: 5px;
+    margin: 5px 10px;
+}
+.shrabosty{
+    color: rgb(216, 9, 9);
+    border: 2px;
+    border-radius: 5px;
+    margin: 5px 10px;
+}
+.nina{
+    color: rgb(9, 231, 28);
+    border: 2px;
+    border-radius: 5px;
+    margin: 5px 10px;
+    
+}
+.sabina{
+    color: rgb(187, 12, 231);
+    border: 2px;
+    border-radius: 5px;
+    margin: 5px 10px;
+    
+}
+.text{
+    margin: 5px;
+    background-color: blueviolet;
+    border: 5px;
+    border-radius: 3px;
+}
+.me{
+    margin: 5px;
+}
+.checkbox{
+    
+    margin: 5px;
+}
+.files{
+    margin: 5px;
+}
+.radio{
+    margin: 5px;
+}
